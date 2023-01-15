@@ -21,3 +21,5 @@ This is the section that collects some of the side projects.
 * Heart Failure: This project was done as part of my Master Thesis [here] (https://github.com/13Mai13/heart-failure)
 
 * k8s starting guide: This is the code to start a mini k8s cluster in MacOS [here](https://github.com/13Mai13/k8s)
+
+* Car usage in Spain: This is a simple analytics project to answer: Does half of the population of Spain need a car? [here](https://github.com/13Mai13/da-car-need-es)
