@@ -12,6 +12,22 @@ This is the github repo for all the topics I'm interested in and my advances
 
 [This](https://github.com/13Mai13/golang101/blob/main/README.md) is **WIP** playground to learn some golang.
 
+### [WIP] SQL
+
+* Books: 
+  * https://sql-performance-explained.com/
+  * https://pragprog.com/titles/bksqla// 
+
+* Exercises:
+  * https://www.windowfunctions.com/ 
+  * https://pgexercises.com/ 
+
+* Online Articles:
+  * https://modern-sql.com/ 
+  * https://blog.jooq.org/2013/07/30/10-common-mistakes-java-developers-make-when-writing-sql/ 
+  * https://blog.jooq.org/2013/08/12/10-more-common-mistakes-java-developers-make-when-writing-sql/ 
+  * https://blog.jooq.org/2014/05/26/yet-another-10-common-mistakes-java-developer-make-when-writing-sql-you-wont-believe-the-last-one/ 
+
 ## Projects
 
 This is the section that collects some of the side projects. 
