@@ -4,6 +4,14 @@ This is the github repo for all the topics I'm interested in and my advances
 
 ## [WIP] Graphs
 
+## Programming Languages
+
+### Python
+
+### [WIP] Golang
+
+[This](https://github.com/13Mai13/golang101/blob/main/README.md) is **WIP** playground to learn some golang.
+
 ## Projects
 
 This is the section that collects some of the side projects. 
