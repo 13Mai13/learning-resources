@@ -59,8 +59,17 @@ Family of quite permissive Open Source Licenses that are not viral but still off
 
 * The devil here is truly in the details.
 
-* MIT
-* Apache 
+* MIT: The [MIT License](https://opensource.org/license/mit/) is pretty short, and pretty simple.
+    * You are allowed to do anything you want with MIT-licensed code, as long as you include the original license somewhere in your derivative. 
+    *  Have a COPYING or LICENSE file that says something like "[project] includes code from foobaz, which is licensed under the MIT license:" with the original license following.
+
+* [Apache](https://opensource.org/license/apache-2-0/):
+    * Notably, if you change any Apache-licensed code, you must state so. There are also rules about use of the project name. 
+    * The Apache license is notable among open-source licenses for including language dealing with patents. 
+
+* Apache vs MIT: 
+
+However, Apache 2.0 gives you both a copyright AND a patent license. MIT gives you only a copyright license.
 
 ## Creative Commons
 
@@ -88,4 +97,5 @@ All copyright claims have been forfeit.
 
 * [This](https://github.com/readme/guides/open-source-licensing) article
 * [Open source definition from Open Source Initiave](https://opensource.org/osd/)
+* [Apache vs MIT](https://www.quora.com/Whats-the-difference-between-Apache-v2-0-and-MIT-license-What-are-the-major-consequences-of-using-Apache-software-over-MIT)
 * [Get a license explanied](https://www.tldrlegal.com/)
