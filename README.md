@@ -42,5 +42,9 @@ This is the section that collects some of the side projects.
 
 ## Books
 
-[] Designing Data-Intensive Applications
-[] 
+[ ] Designing Data-Intensive Applications
+[ ] Other books
+
+## Other related topics
+
+* [Licences in github](content/other_related_topics/licenses/README.md)
