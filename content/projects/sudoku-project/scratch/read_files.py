@@ -5,8 +5,8 @@ import numpy as np
 def read_file():
     path = pathlib.Path().absolute()
     print(path)
-    quizzes = np.zeros((50, 81), np.int32)
-    solutions = np.zeros((50, 81), np.int32)
+    quizzes = np.zeros((49, 81), np.int32)
+    solutions = np.zeros((49, 81), np.int32)
     for i, line in enumerate(
         open(
             f"{path}/content/projects/sudoku-project/sudoku_first_50_examples.csv", "r"
