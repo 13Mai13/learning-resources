@@ -91,6 +91,12 @@ def solve(matrix):
                         break
     return(matrix)
 
-solution = solve(quizzes[0])
-print(solution, solutions[0])
-print(solution == solutions[0])
+
+for position, quizz in enumerate(quizzes):
+
+    solution = solve(quizzes[position])
+    print(solution, solutions[position])
+    # import pdb 
+    # pdb.set_trace()
+    comparison = solution == solutions[position]
+    print(f"Are both solution equal: {comparison.flatten().all()}")
