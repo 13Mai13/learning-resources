@@ -81,7 +81,8 @@ def is_matrix_incomplete(matrix):
     return is_number_subset(0, matrix.flatten())
 
 def solve(matrix):
-    # TODO: Infinit loop when guessing is compulsory
+    # TODO: Infinity loop when guessing is compulsory
+    # TODO: Not working as expected
     while is_matrix_incomplete(matrix):
         for i in range(9):
             for j in range(9):
@@ -90,9 +91,8 @@ def solve(matrix):
                     if len(candidate_numbers) == 1:
                         matrix[i, j] = candidate_numbers[0]
                         break
-        print(f"There is no alternative with a single alternative number")
-        print(f"This is an infinite loop")
-        break
+    print(f"There is no alternative with a single alternative number")
+    print(f"This is an infinite loop")
     return(matrix)
 
 
