@@ -18,3 +18,12 @@ The board has some numbers already in it. Those are the initial hints that would
 
 For more information about the game, you can dig deeper in [here](https://www.gamesver.com/sudoku-rules-for-beginners-all-you-need-to-know/).
 
+## Project 
+
+The goal of this project is to solve sudokus following different strategies. 
+
+* Brute Force: 
+
+## Run 
+
+This is a CLI tool. 0's will be interpreted as empty cells that the solver will need to fill. 
