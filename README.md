@@ -9,7 +9,7 @@ This is the github repo for all the topics I'm interested in and my advances
 ### [WIP] Python
 
 * [100 days of python](https://www.udemy.com/course/100-days-of-code/) [personal notes and excersises](https://github.com/BetaLyrae/mai)
-* [Fast API example code]()
+* [Fast API example code](https://github.com/13Mai13/learning-resources/tree/main/content/python/fast_api)
 
 ### [WIP] Golang
 
