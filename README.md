@@ -34,7 +34,7 @@ This is the section that collects some of the side projects.
 
 * Sudoku Project: Building a sudoku solver [here](content/projects/sudoku-project/README.md)
 
-* Heart Failure: This project was done as part of my Master Thesis [here] (https://github.com/13Mai13/heart-failure)
+* Heart Failure: This project was done as part of my Master Thesis [here](https://github.com/13Mai13/heart-failure)
 
 * k8s starting guide: This is the code to start a mini k8s cluster in MacOS [here](https://github.com/13Mai13/k8s)
 
@@ -42,8 +42,8 @@ This is the section that collects some of the side projects.
 
 ## Books
 
-[ ] Designing Data-Intensive Applications
-[ ] Other books
+- [ ] Designing Data-Intensive Applications
+- [ ] Other books
 
 ## Other related topics
 
