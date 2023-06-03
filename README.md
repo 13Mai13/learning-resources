@@ -6,7 +6,10 @@ This is the github repo for all the topics I'm interested in and my advances
 
 ## Programming Languages
 
-### Python
+### [WIP] Python
+
+* [100 days of python](https://www.udemy.com/course/100-days-of-code/) [personal notes and excersises](https://github.com/BetaLyrae/mai)
+* [Fast API example code]()
 
 ### [WIP] Golang
 
